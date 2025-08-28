@@ -18,12 +18,11 @@ Linux & automation. Ansible. Sharing simple, reusable playbooks/roles.
   - root-command-log • create-user • disable-account • update-server
 
 ## Tech
-`Ansible` · `RHEL 8/9` · `systemd` · `Bash` · `Kubernetes (k8s)` · `Linux`
+`Ansible` · `EL 8/9` · `systemd` · `Bash` · `Kubernetes (k8s)` · `Linux`
 
 ## How to use my repos
 - Read the README at the repo root
 - Check `playbooks/README.md` and `roles/README.md` for quick run examples
-- Open an issue if something’s unclear — I’m learning in public
 
 ---
 *This repository is a personal collection of Ansible examples, shared as a community resource.*
