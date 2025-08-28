@@ -7,7 +7,7 @@ Linux & automation. Ansible. Sharing simple, reusable playbooks/roles.
 ---
 
 ## What I build
-- Clear, documented **Ansible playbooks** and **roles** (RHEL 8/9)
+- Clear, documented **Ansible playbooks** and **roles** (EL 8/9)
 - Small, practical examples focused on **idempotence** and **readability**
 - Community-first: everything is meant to be easy to learn and reuse
 
@@ -15,7 +15,7 @@ Linux & automation. Ansible. Sharing simple, reusable playbooks/roles.
 - 🧰 **Ansible Cookbook** → reusable examples: [ansible-cookbook](https://github.com/alanrola/ansible-cookbook)
 - 🧩 Roles (docs inside each folder):
   - manage-packages • install_node_exporter • kill-processes-zombie
-  - root-command-log • create-user • disable-account
+  - root-command-log • create-user • disable-account • update-server
 
 ## Tech
 `Ansible` · `RHEL 8/9` · `systemd` · `Bash` · `Kubernetes (k8s)` · `Linux`
